@@ -15,9 +15,10 @@
 #include <cmath>
 #include <cstddef>
 #include <functional>
-#include <xmmintrin.h>
 
 #include "n2/distance.h"
+#include "n2/simd.h"  // https://github.com/oddconcepts/n2o/commit/fe6214dcc06a1b13be60733c53ac25bca3c2b4d0
+
 
 namespace n2 {
 

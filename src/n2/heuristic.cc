@@ -12,10 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#include <xmmintrin.h>
-
 #include "n2/base.h"
 #include "n2/heuristic.h"
+#include "n2/simd.h"   // https://github.com/oddconcepts/n2o/commit/fe6214dcc06a1b13be60733c53ac25bca3c2b4d0
 
 namespace n2 {
 
