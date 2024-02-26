@@ -1,8 +1,8 @@
-1c5df951b219145255d3fa9b3cf8c6e9 *DESCRIPTION
+70b68930bdc91b1ec18eee91016903ba *DESCRIPTION
 f8d097d09af3af004275d422f8917a73 *NAMESPACE
 bf0a4fa93194c106bc4b779719d92fc1 *R/RcppExports.R
 20b295f641992701ead58596a6808656 *R/imports.R
-23f334c90c2b70d3592be540f68636ab *README.md
+135608e13532a77672449faec0972246 *README.md
 c89410ea75158716b64af5fb7af33345 *inst/COPYRIGHTS
 8273bfffd433b463fd1cab671dd916a5 *man/Knn.Rd
 6c8deb90311f0ce648317b69ce6bbbe9 *man/checkOpenMP.Rd
@@ -12,8 +12,8 @@ d8a5468b0dd1ec22d36db6b51c04a7fa *src/Makevars.win
 468a3d387a2c7b58ed43f70f5376b128 *src/RcppExports.cpp
 59cb80146e5ad176fa49e574da2343e3 *src/check_openmp.cpp
 ca90ac0930d6164891c4a6479f16ad66 *src/n2/LICENSE
-6302538962c1d4c3ab3df384a17cc2ef *src/n2/Makefile
-582d4e9d2941408d018d2f7061a95dd2 *src/n2/Makefile.win
+af31ed3fddeb0109aaa7e828dccfe568 *src/n2/Makefile
+82b963d4dcb50f528ecc4874ba54ebdb *src/n2/Makefile.win
 9ac40508988fd4a010ed46a1ac4d2d60 *src/n2/base.cc
 ed680ed599e4a62c14b66ce05e9fface *src/n2/distance.cc
 97624e0a3766b3e4d777fd2422358e6b *src/n2/heuristic.cc
